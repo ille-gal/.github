@@ -1,7 +1,7 @@
 <div align="center">
+  <h1> ille.gal </h1>
   <h3>
-      ille.gal
+      Revolutionizing malware.
       <br>
-      <a href="https://ille.gal/">ille.gal</a> -
-      <a href="https://github.com/ille-gal/.github/tree/main/config">configs</a>
+      <a href="https://ille.gal/">ille.gal</a>
   </h3>
