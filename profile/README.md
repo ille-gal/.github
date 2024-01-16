@@ -1,7 +1,5 @@
 <div align="center">
-  <h1> illegal </h1>
-  <h3>
-      Revolutionizing malware.
-      <br>
-      <a href="https://ille.gal/">ille.gal</a>
-  </h3>
+  <picture>
+     <a href="https://ille.gal/"><img src="https://files.catbox.moe/als1v7.png" alt="ille.gal"></a>
+  </picture>
+</div>
